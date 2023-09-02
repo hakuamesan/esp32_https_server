@@ -14,6 +14,11 @@ Breaking changes:
 
 –
 
+## [v1.0.1]
+Bug fixes:
+- Merged pull requests #161 to fix compile issues wrt SSL-> TLS changes
+- Minor typo fixes
+
 ## [v1.0.0](https://github.com/fhessel/esp32_https_server/releases/tag/v1.0.0)
 
 New functionality:
